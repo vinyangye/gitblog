@@ -3,11 +3,11 @@
   <title>vinyangye</title>
   
   
-  <link href="/gitblog/atom.xml" rel="self"/>
+  <link href="/atom.xml" rel="self"/>
   
-  <link href="https://vinyangye.github.io/"/>
+  <link href="https://vinyangye.github.io/gitblog/"/>
   <updated>2019-04-10T14:10:25.939Z</updated>
-  <id>https://vinyangye.github.io/</id>
+  <id>https://vinyangye.github.io/gitblog/</id>
   
   <author>
     <name>Vincent Yang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://vinyangye.github.io/2019/04/11/hello-world/"/>
-    <id>https://vinyangye.github.io/2019/04/11/hello-world/</id>
+    <link href="https://vinyangye.github.io/gitblog/2019/04/11/hello-world/"/>
+    <id>https://vinyangye.github.io/gitblog/2019/04/11/hello-world/</id>
     <published>2019-04-10T14:10:25.939Z</published>
     <updated>2019-04-10T14:10:25.939Z</updated>
     

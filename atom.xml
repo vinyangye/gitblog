@@ -6,7 +6,7 @@
   <link href="/gitblog/atom.xml" rel="self"/>
   
   <link href="https://vinyangye.github.io/gitblog/"/>
-  <updated>2019-04-12T06:55:13.444Z</updated>
+  <updated>2019-04-13T05:43:11.283Z</updated>
   <id>https://vinyangye.github.io/gitblog/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Linux环境下Postgresql数据库的操作</title>
-    <link href="https://vinyangye.github.io/gitblog/2019/04/11/Linux%E4%B8%8BPostgresql%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E6%93%8D%E4%BD%9C/"/>
-    <id>https://vinyangye.github.io/gitblog/2019/04/11/Linux下Postgresql数据库的操作/</id>
+    <title>Hello World</title>
+    <link href="https://vinyangye.github.io/gitblog/2019/04/11/hello-world/"/>
+    <id>https://vinyangye.github.io/gitblog/2019/04/11/hello-world/</id>
     <published>2019-04-10T14:10:25.939Z</published>
-    <updated>2019-04-12T06:55:13.444Z</updated>
+    <updated>2019-04-13T05:43:11.283Z</updated>
     
     <summary type="html">
     
@@ -29,8 +29,7 @@
       
         
         
-          &lt;p&gt;在Linux Ubuntu环境下安装postgresql, 开启服务，并让项目连接服务器，编写shell脚本文件设置环境变量实现免密码自动备份。&lt;/p&gt;
-&lt;h2 id=&quot;Postgresql数据库安装&quot;&gt;&lt;a href=&quot;#Postgresql数据库安装&quot;
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
         
       
     
@@ -40,11 +39,11 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://vinyangye.github.io/gitblog/2019/04/11/hello-world/"/>
-    <id>https://vinyangye.github.io/gitblog/2019/04/11/hello-world/</id>
+    <title>Linux环境下Postgresql数据库的操作</title>
+    <link href="https://vinyangye.github.io/gitblog/2019/04/11/Linux%E4%B8%8BPostgresql%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%84%E6%93%8D%E4%BD%9C/"/>
+    <id>https://vinyangye.github.io/gitblog/2019/04/11/Linux下Postgresql数据库的操作/</id>
     <published>2019-04-10T14:10:25.939Z</published>
-    <updated>2019-04-10T14:10:25.939Z</updated>
+    <updated>2019-04-13T05:26:02.226Z</updated>
     
     <summary type="html">
     
@@ -52,7 +51,8 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;p&gt;在Linux Ubuntu环境下安装postgresql, 开启服务，并让项目连接服务器，编写shell脚本文件设置环境变量实现免密码自动备份。&lt;/p&gt;
+&lt;h2 id=&quot;Postgresql数据库安装&quot;&gt;&lt;a href=&quot;#Postgresql数据库安装&quot;
         
       
     
